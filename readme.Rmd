@@ -1,0 +1,11 @@
+---
+title: "README.Rmd"
+author: "Ismo Vihtola"
+date: "26 tammikuuta 2017"
+output: html_document
+---
+
+# Open Data Science course
+## Diary
+[link] https://vihtois.github.io/IODS-project
+

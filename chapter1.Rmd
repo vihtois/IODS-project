@@ -1,2 +1,2 @@
-# Open Data Science course
-[link] https://github.com/vihtois/IODS-project
+# Exercise 1
+[link] https://vihtois.github.io/IODS-project

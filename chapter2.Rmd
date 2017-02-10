@@ -1,9 +1,9 @@
 # Exercise 2
 [link] https://vihtois.github.io/IODS-project/ODS_RStudio_Exercise_2_Data_Wrangling.R
 <br>
-[link] https://vihtois.github.io/IODS-project/ODS_Rstudio_Exercise_2_Analysis.R
+[link] https://vihtois.github.io/IODS-project/ODS_RStudio_Exercise_2_Analysis.R
 <br>
 [link] https://vihtois.github.io/IODS-project/create_learning2014.R
 <br>
-[link] https://vihtois.github.io/IODS-project/chapter2.html
+[link] https://vihtois.github.io/IODS-project/Exercise2.html
 <br>
